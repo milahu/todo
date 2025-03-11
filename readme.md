@@ -842,6 +842,71 @@ when i cannot use this tool to insult these powerful groups, then the tool has f
 
 
 
+### reproducible torrents
+
+aka: deterministic torrents
+
+all torrent creator tools
+should generate reproducible torrents
+so when the torrent file is lost
+it can be reproduced only from the torrent contents
+
+most torrent indexers
+dont serve torrent files
+but only magnet links
+
+torrent file caching services
+like torrage are not mainstream
+
+this is also a benefit of a cas filesystem. when the torrent file is lost, the btih can be retrieved from the file path `cas/btih/somehash/some.name`
+
+nondeterminism sources:
+
+- non-zero torrent creation time
+- non-default piece size
+- (todo)
+
+example: [torf](https://github.com/rndusr/torf) python library
+
+```py
+from torf import Torrent
+
+t = Torrent(
+  path='path/to/content',
+  name=None,
+  exclude_globs=(),
+  exclude_regexs=(),
+  include_globs=(),
+  include_regexs=(),
+  trackers=[
+    'https://tracker1.example.org:1234/announce',
+  ],
+  webseeds=None,
+  httpseeds=None,
+  private=None,
+  comment=None,
+  source=None,
+  creation_date=None,
+  #created_by='torf 4.3.0',
+  created_by=None,
+  piece_size=None,
+  #piece_size=4*1024*1024, # 4MiB
+  piece_size_min=None,
+  piece_size_max=None,
+  randomize_infohash=False,
+)
+
+t.generate()
+print("metainfo", t.metainfo)
+t.write('my.torrent')
+```
+
+non-default piece sizes
+should be stored in magnet links
+like ps=4M or psz=4M (todo which key)
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
