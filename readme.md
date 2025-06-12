@@ -907,6 +907,73 @@ like ps=4M or psz=4M (todo which key)
 
 
 
+### fritzbox: freigabe von port 80 über dyndns
+
+<blockquote>
+
+moin
+
+ich sehe mehrere fehler in der fritzbox software...
+
+
+
+1\. dyndns client braucht username und/oder passwort.
+wenn ich nur eine update-url angebe, dann arbeitet der client nicht,
+aber meine update-url (duckdns.org) hat kein <username> oder <pass>
+
+
+
+2\. port 80 (http) freigabe geht nicht mit dyndns hostname.
+beispiel:
+http://milahu.duckdns.org/
+
+wenn ich beim dyndns-client den hostname "milahu.duckdns.org" eingebe,
+dann kriege ich die fritzbox login-seite
+obwohl ich bei
+internet > freigaben > fritzbox-dienste
+"Internetzugriff auf die FRITZ!Box über HTTPS aktiviert"
+deaktiviert habe
+
+wenn ich beim dyndns-client einen dummy hostname eingebe,
+so wie es aktuell eingestellt ist,
+dann kriege ich die fritzbox "DNS-Rebind-Schutz" seite
+
+
+
+unter meiner ipv6 adresse
+http://[2003:d7:e7ff:12d5:3681:c4ff:fe28:e746]/
+kriege ich die fritzbox login-seite
+
+unter meiner ipv4 adresse
+http://217.247.212.60/
+kriege ich meinen http server
+diesen http server will ich immer erreichen
+über hostname und über ipv6
+
+eine freigabe über "myfritz" möchte ich nicht
+das soll über dyndns laufen
+
+
+
+3\. ich kann nicht mehrere externe ports (zb 80 und 81)
+weiterleiten zu meinem rechner auf port 80.
+die fritzbox bringt dann die fehlermeldung
+"Die Portfreigabe kann nicht erstellt oder aktiviert werden, da eine entsprechende Freigabe bereits existiert."
+und behält die zweite freigabe mit der warnung
+"Für diese Freigabe wurden andere Ports extern vergeben als von Ihnen gewünscht."
+so dass ich 2 freigaben habe für den externen port 80.
+aber so ein "many to one mapping" sollte technisch machbar sein.
+
+
+
+könnt ihr das (vor allem punkt 2) "hotfixen"?
+sonst würde ich versuchen, das mit freetz zu lösen
+evtl das fritzbox webinterface auf port 81 verschieben?
+
+</blockquote>
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
