@@ -716,6 +716,12 @@ keywords
 
 
 
+#### generic tagging and voting system
+
+[p2p-killerapp/doc/2025-09-04.generic-tagging-and-voting-system.md](https://github.com/milahu/p2p-killerapp/blob/main/doc/2025-09-04.generic-tagging-and-voting-system.md)
+
+
+
 ### align different cuts of the same video
 
 useful to extract the audiotrack from one release,
