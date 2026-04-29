@@ -980,6 +980,27 @@ evtl das fritzbox webinterface auf port 81 verschieben?
 
 
 
+### chromium: add native epub support
+
+https://issues.chromium.org/issues/41207619
+
+epub files are based on web technologies (html, svg, images)  
+so reading an epub file is as simple as unzipping the epub file with `unzip src.epub`  
+and opening the content files with a web browser
+
+generally, chromium should support archives (zip, tar, warc, 7z, rar, ...) containing html/svg/image files  
+see also: [ratarmount](https://github.com/mxmlnkn/ratarmount)
+
+
+
+### chromium: fix text search in HTML spans with absolute positions
+
+https://groups.google.com/a/chromium.org/g/chromium-discuss/c/KBT__5UhptE
+
+https://github.com/milahu/chromium-discuss-text-search-absolute-position-spans
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
