@@ -1051,6 +1051,137 @@ und optional kann man "remote LLMs" nutzen (openAI, ...)
 
 
 
+### create audiobooks
+
+mainstream audiobooks exist mostly for trash books  
+= good books have audiobooks only in rare cases,  
+only when the good books are "too famous to be ignored"  
+like "1984" by George Orwell,  
+like "Die größte Revolution aller Zeiten" (2024) by Marc Friedrich
+
+- David Sinclair
+  - [The Wolf Tamers: How They Made the Strong Weak. by David Sinclair](https://www.goodreads.com/book/show/60222529-the-wolf-tamers) - banned on amazon for "hatespeech"
+- Tilman Knechtel
+  - [Die Rothschilds: Eine Familie beherrscht die Welt. von Tilman Knechtel](https://www.goodreads.com/book/show/23519039-die-rothschilds)
+  - [Schwarzbuch Alternative Lügenpresse: Wie die alternativen Medien uns in eine sozialistische Weltregierung treiben. von Tilman Knechtel](https://www.goodreads.com/book/show/99843401-schwarzbuch-alternative-l-genpresse)
+  - [Die Rockefellers: Ein amerikanischer Albtraum. Tilman Knechtel](https://www.goodreads.com/book/show/27074338-die-rockefellers)
+- Thomas Szasz
+  - [The Myth of Mental Illness: Foundations of a Theory of Personal Conduct. by Thomas Szasz](https://www.goodreads.com/book/show/706525.The_Myth_of_Mental_Illness)
+- Alexander Solschenizyn
+  - [Der Archipel Gulag. von Alexander Solschenizyn](https://www.goodreads.com/book/show/148247576-der-archipel-gulag)
+- Hannah Arendt
+  - [The Origins of Totalitarianism. by Hannah Arendt](https://www.goodreads.com/book/show/396931.The_Origins_of_Totalitarianism)
+- [Friedrich Nietzsche](https://www.goodreads.com/search?q=Friedrich+Nietzsche)
+- Carlo M. Cipolla
+  - [The Basic Laws of Human Stupidity. by Carlo M. Cipolla](https://www.goodreads.com/book/show/51187677-the-basic-laws-of-human-stupidity)
+- [Bertrand Russell](https://www.goodreads.com/search?q=Bertrand+Russell)
+- Michel Foucault
+- Ron Leifer
+- David Cooper
+- Ivan Illich
+- Erving Goffman
+- John Taylor Gatto
+- Franco Basaglia
+- R.D. Laing
+- Paulo Freire
+- William Strauss, Neil Howe
+  - via: Marc Friedrich - Die größte Revolution aller Zeiten (2024)
+  - [The Fourth Turning: An American Prophecy. by William Strauss, Neil Howe](https://www.goodreads.com/book/show/670089.The_Fourth_Turning)
+  - [Generations. by William Strauss, Neil Howe](https://www.goodreads.com/book/show/183651.Generations)
+- Daniele Ganser
+- Rainer Mausfeld
+- Wolfgang Eggert
+  - Das Islamisierungskomplott: Wer spielt gegen Europa (2020)
+    - https://archive.org/details/wer-spielt-gegen-europa
+    - https://www.youtube.com/watch?v=aDNhyrTjZ7M
+    - buch kann man nicht mehr kaufen!
+
+biomagnetism, master morality, anti psychiatry
+
+```
+  wilhelm reich
+    https://www.youtube.com/results?search_query=h%C3%B6rbuch+wilhelm+reich
+
+  friedrich nietzsche
+
+  Alexander Solschenizyn
+    https://www.youtube.com/results?search_query=h%C3%B6rbuch+Alexander+Solschenizyn
+
+  Hannah Arendt
+    https://www.youtube.com/results?search_query=h%C3%B6rbuch+Hannah+Arendt
+
+  Carlo M. Cipolla
+    The Basic Laws of Human Stupidity
+    https://www.youtube.com/results?search_query=h%C3%B6rbuch+Carlo+Cipolla
+
+  Bertrand Russell
+    https://www.youtube.com/results?search_query=h%C3%B6rbuch+Bertrand+Russell
+
+  Thomas Szasz
+    Psychiatriekritiker
+    via https://www.irrenoffensive.de/kontinuitaeten_zwangspsychiatrie.pdf
+
+    „What compulsory schooling is for children, compulsory psychiatry is for adults:
+    a system designed to normalize behavior, enforce obedience, and suppress individuality.
+    The so-called treatment teaches not autonomy but compliance.
+    School produces the student who obeys; psychiatry produces the adult who obeys.“
+
+  Michel Foucault
+    1926-1984
+    Philosoph und Soziologe
+    via https://www.irrenoffensive.de/kontinuitaeten_zwangspsychiatrie.pdf
+
+    „In der Schule wie in der Psychiatrie geht es um die Zucht der Körper und die Dressur der Seelen.
+    Anerzogen werden – durch Strafen, Belohnungen, Prüfungen –
+    Gehorsam, Pünktlichkeit, Passivität und eine genau kalkulierte Produktionstüchtigkeit.
+    Es sind Institutionen zur Herstellung des fügsamen Subjekts.“
+
+  Ron Leifer
+    Psychiatriekritiker
+    Schüler von Thomas Szasz
+    via https://www.irrenoffensive.de/kontinuitaeten_zwangspsychiatrie.pdf
+
+  David Cooper
+    1931-1986
+    Psychiatriekritik
+    via https://www.irrenoffensive.de/kontinuitaeten_zwangspsychiatrie.pdf
+
+  Ivan Illich
+
+    „Der unsichtbare Lehrplan besteht in der Abhängigkeit.
+    Der Schüler lernt, dass man Experten gehorchen muss;
+    der Erwachsene lernt in der Psychiatrie denselben Satz noch einmal.“
+
+  Erving Goffman
+
+    „Psychiatrische Kliniken und Schulen unterscheiden sich weniger durch ihr Ziel als durch die Phase des Lebens, in der sie eingreifen.
+    Beide Institutionen entziehen dem Individuum seine Autonomie, beide vermitteln unterschwellig die Lektion des Gehorsams.
+    Der Schüler lernt, der Patient bestätigt erneut, dass sein Wille zweitrangig ist gegenüber den Anforderungen der Organisation.“
+
+  John Taylor Gatto
+
+    The Underground History of American Education (2000)
+
+  Franco Basaglia
+
+    „Die Psychiatrie ist für den Erwachsenen das, was die Schule für das Kind war:
+    ein Ort der Anpassung, nicht der Befreiung.
+    Der Schüler lernt, nicht zu denken;
+    der Patient lernt, nicht zu widersprechen.“
+
+  R.D. Laing
+
+    „From childhood on we are conditioned to obedience: first by school, later by psychiatry.
+    Both institutions punish autonomy and reward submission.
+    They call us sick when we refuse to play our assigned role.“
+
+  Paulo Freire
+
+    Pädagogik der Unterdrückten
+```
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
