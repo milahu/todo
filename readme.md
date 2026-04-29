@@ -1001,6 +1001,56 @@ https://github.com/milahu/chromium-discuss-text-search-absolute-position-spans
 
 
 
+### create german fandubs
+
+- [Ted K (2021)](https://www.imdb.com/title/tt8128276/) - An exploration of [Ted Kaczynski](https://en.wikipedia.org/wiki/Ted_Kaczynski)'s life in Lincoln, Montana in the years leading up to his arrest as The Unabomber.
+- Apocalypto 2006
+- The Survivalist 2015
+- South Park S14E06 201
+
+
+
+#### augenaufmedienanalyse.de
+
+https://augenaufmedienanalyse.de/2022/02/18/projekte/
+
+todo dezentralisierung
+
+es wäre hilfreich, wenn du deinen "tech stack" öffentlich machst,  
+damit mehr menschen als übersetzer arbeiten können
+
+ich spiele gerade mit  
+https://videopython.com/api/ai/dubbing/  
+https://github.com/Softcatala/open-dubbing  
+...
+
+mein ziel ist ein "poor man's dubbing" tool:
+
+speech to text (mit zeitstempeln und sprecher-namen)  
+https://stt.readthedocs.io/en/latest/
+
+manuelle korrektur vom text  
+dafür brauchen wir eine schöne GUI  
+alle existierenden FOSS "subtitle editor" tools sind kacke...  
+evtl  basierend auf  
+https://github.com/otsaloma/gaupol
+
+übersetzung vom text  
+https://github.com/argosopentech/argos-translate
+
+manuelle korrektur der übersetzung  
+https://github.com/BartWojtowicz/videopython/issues/224  
+manual editing of translations
+
+text to speech  
+das sollte ein offline LLM machen, mit voice cloning, mit "preserve background"  
+nicht-AI tools wie espeak oder mbrola klingen hässlich
+
+die ganze pipeline soll erstmal nur offline funktionieren, "offline first",  
+und optional kann man "remote LLMs" nutzen (openAI, ...)
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
