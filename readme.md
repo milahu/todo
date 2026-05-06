@@ -1182,6 +1182,18 @@ biomagnetism, master morality, anti psychiatry
 
 
 
+### nginx configure does not merge values of duplicate keys
+
+example
+
+```
+configure --with-cc-opt=-DFOO=1 --with-cc-opt=-DBAR=2
+```
+
+now only `BAR=2` is defined, but not `FOO=1`
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
