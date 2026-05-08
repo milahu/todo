@@ -1194,6 +1194,19 @@ now only `BAR=2` is defined, but not `FOO=1`
 
 
 
+### letsencrypt ACME certificates for wildcard subdomains
+
+currently, requesting letsencrypt certificates for wildcard subdomains like `*.example.com` is too hard
+
+see also
+
+- https://github.com/NixOS/nixpkgs/blob/master/nixos/modules/security/acme/default.md
+- https://discourse.nixos.org/t/wildcard-subdomain-nginx-and-acme/50770/4
+- https://stackoverflow.com/questions/48219262/error-acme-could-not-determine-solvers
+- https://github.com/caddyserver/caddy/issues/3399
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
