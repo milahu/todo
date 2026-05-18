@@ -1007,6 +1007,15 @@ https://github.com/milahu/chromium-discuss-text-search-absolute-position-spans
 - Apocalypto 2006
 - The Survivalist 2015
 - South Park S14E06 201
+- [The Time Machine (1978)](https://en.wikipedia.org/wiki/The_Time_Machine_(1978_film%29)
+  - [Die Zeitmaschine (1978)](https://de.wikipedia.org/wiki/Die_Zeitmaschine_(1978%29)
+- [Bacurau (2019)](https://de.wikipedia.org/wiki/Bacurau)
+- [Gulaal (2009)](https://en.wikipedia.org/wiki/Gulaal_(film%29)
+- [New Kids](https://de.wikipedia.org/wiki/New_Kids)
+  - [New Kids Season 1 (2007)](https://www.imdb.com/title/tt1705084/episodes/?season=1)
+  - [New Kids Season 2 (2008)](https://www.imdb.com/title/tt1705084/episodes/?season=2)
+  - [torrent: New Kids S01-S03](magnet:?xt=urn:btih:2e0b32a03c00dfcb708e3e15bb320221953056d7&dn=New%20Kids%20S01-S03&xl=2635448017&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F5.255.124.190%3A6969%2Fannounce&tr=udp%3A%2F%2F5.45.69.185%3A6969%2Fannounce)
+- [End:Civ (2011)](https://www.youtube.com/watch?v=L4ccAJJrrjM)
 
 
 
