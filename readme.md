@@ -1064,6 +1064,13 @@ und optional kann man "remote LLMs" nutzen (openAI, ...)
 
 
 
+### translate books to german
+
+- [The Sun, The Earth and The Disaster Cycle. 2025. by Ben Davidson](https://libgen.bz/edition.php?id=208647364)
+- [Endgame, Volume 2: Resistance. By Derrick Jensen](https://annas-archive.gl/md5/c5d433da58649d84397425bce662f0ee)
+
+
+
 ### create audiobooks
 
 mainstream audiobooks exist mostly for trash books  
