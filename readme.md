@@ -38,6 +38,71 @@ see also my book chapter:
 
 
 
+#### measure electrosmog
+
+i need a simple and cheap method for measuring electrosmog in the power grid.
+i am interested in the powerline harmonics around 16 KHz,
+which is the frequency range of my tinnitus.
+
+something like:
+use the microphone input of a smartphone with some spectrogram/spectrometer app as an AC voltage meter.
+measure your body voltage (skin voltage) versus some "signal ground".
+
+challenge:
+find a good "signal ground".
+possible solutions:
+
+- shields of coax cables for cable TV
+- ground radials of copper wire, also used in radio communications, expensive to construct from scratch
+- railroad tracks. large metal structures, spanning in multiple directions
+- metal water pipes, connected to other larger metal water pipes,
+  but im afraid that the larger water pipes are made of plastic = not conductive = no signal ground.
+
+or:
+measure the voltage of your power line through a series of resistors and fuses (high risk!).
+
+conspiracy theory:
+"they" are using this frequency range (around 16 KHz) as the carrier for synthetic telepathy,
+which would be a simple-but-effective explanation for the large numbers of idiots everywhere.
+
+why 16 KHz?
+possible explanation:
+[Insulated-gate bipolar transistors (IGBT)](https://en.wikipedia.org/wiki/Insulated-gate_bipolar_transistor),
+used in power electronics (power supplies, solar power inverters ...).
+millions of such transistors are connected to the power grid,
+polluting the whole power grid with their switching frequency around 16 KHz.
+
+[chats/ChatGPT-IGBT-Typical-Switching-Frequencies.md](chats/ChatGPT-IGBT-Typical-Switching-Frequencies.md)
+
+<blockquote>
+
+Residential solar string inverter (IGBT): 8–16 kHz (10 kHz and 16 kHz are especially common)
+
+Higher frequency → more EMI
+
+Solar inverters
+
+For a 5–20 kW residential string inverter, a very common choice is:
+
+- 10 kHz
+- 16 kHz
+
+16 kHz is attractive because it's at or just above the upper limit of human hearing,
+reducing audible acoustic noise from magnetic components.
+
+IGBTs are generally reserved for higher-power converters (roughly above 5–10 kW)
+where conduction losses become more important than switching speed.
+In those cases, you'll often see switching frequencies in the 5–20 kHz range.
+
+- < 10 kW: around 10–20 kHz (if IGBTs are used at all)
+- 10–100 kW: around 4–10 kHz
+- 100 kW–1 MW: around 2–6 kHz
+- > 1 MW: often 1–3 kHz
+
+</blockquote>
+
+
+
 ### git forges should add the commit object to archive files
 
 git forges: github, gitlab, gitea/forgejo/gogs, sourcehut?, cgit?
