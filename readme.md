@@ -31,6 +31,13 @@ currently, my biggest limiting factor is time.
 
 
 
+#### use EEG to measure personality types and compatibility
+
+see also my book chapter:
+[Measuring personality type and compatibility](https://milahu.github.io/alchi/src/whoaremyfriends/whoaremyfriends.html#measuring-personality-type-and-compatibility)
+
+
+
 ### git forges should add the commit object to archive files
 
 git forges: github, gitlab, gitea/forgejo/gogs, sourcehut?, cgit?
