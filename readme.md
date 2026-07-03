@@ -1299,6 +1299,41 @@ see also
 
 
 
+### httpdirfs: use filesystem index database from robots.txt
+
+https://github.com/fangfufu/httpdirfs/issues/new
+
+<blockquote>
+
+use filesystem index database from robots.txt
+
+if the HTTP server provides a filesystem index database in its robots.txt file
+then we should use it to avoid HEAD requests for each file
+
+alternative to #93 #185
+
+problems with sitemaps:
+
+- no file sizes
+- no file modes (is this file executable?)
+- no file hashes (integrity check, deduplication)
+- XML is verbose and slow to read
+
+possible solution to generate a filesystem index database:
+
+fsindexer:
+generate a filesystem index as a SQLite database,
+with directories and files (just like a filesystem),
+with file sizes and file hashes
+(the calculation of file hashes is limited by the drive read speed,
+which is slow for HDD drives)
+
+- https://github.com/dmcp718/fs-indexer-python
+
+</blockquote>
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
