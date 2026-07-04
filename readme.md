@@ -1334,6 +1334,24 @@ which is slow for HDD drives)
 
 
 
+### reverse-engineer scanned PDF documents
+
+OCR to PDF with maximum quality and minimal file size
+
+- reverse-engineer the original print layout and fonts (or similar fonts)
+  - Vectorization, Re-typesetting
+  - AI-driven layout extraction
+- no page background images, no sandwich, no transparent text layer
+- no bloated PDF files: 2 MB instead of 50 MB
+
+see also
+
+- [doc/chat/ChatGPT-Reverse-engineering-PDFs.md](doc/chat/ChatGPT-Reverse-engineering-PDFs.md)
+- https://huggingface.co/HURIDOCS/pdf-document-layout-analysis
+- https://github.com/ahnafnafee/local-llm-pdf-ocr - Sandwich PDF
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
