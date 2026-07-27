@@ -1352,6 +1352,28 @@ see also
 
 
 
+### IT8-Kalibrierungs-Targets für Dokumentenscanner
+
+frage, generell zu ADF dokumentenscannern:
+
+wie kann ich die farben kalibrieren?
+
+gibt es auch IT8-Kalibrierungs-Targets für Dokumentenscanner?
+
+ich kenne nur IT8-Kalibrierungs-Targets für flachbettscanner,
+scheinbar weil diese farben hergestellt werden aus starrem plastik,
+also die sind nicht flexibel genug dass man sie durch einen ADF-dokumentenscanner ziehen kann...
+
+oder? gibt es spezielle IT8-Kalibrierungs-Targets für dokumentenscanner?
+
+das nächst-beste was mir einfällt:
+bunte PE-klebefolien aus dem baumarkt auf ein papier kleben.
+die folien selber haben zu wenig grip für die gummirollen,
+aber papier mit folienstreifen geht schon...
+die klebefolien müssten ja nur (mehr oder weniger exakte) RAL farbenwerte haben...
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
