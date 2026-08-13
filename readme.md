@@ -1374,6 +1374,16 @@ die klebefolien müssten ja nur (mehr oder weniger exakte) RAL farbenwerte haben
 
 
 
+### render EPUB documents to PDF books
+
+produce a similar page count as the original print layout of the book,
+with a similar font size and page size and page margin,
+with page numbers and running headers/footers
+
+- [Convert EPUB to PDF with original (print) formatting?](https://superuser.com/questions/909415/convert-epub-to-pdf-with-original-print-formatting)
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
