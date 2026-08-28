@@ -1391,6 +1391,65 @@ except there are "ahead commits" in the main branch
 
 
 
+### publishing tools for political prisoners in psychiatry
+
+the last what the "doctors" in psychiatry want is
+when their prisoners ("patients") ...
+
+- write journals (capture their volatile ideas and thereby stabilize their "psychosis")
+  - if a prisoner does not have his own stock/supply of paper,
+    and the prisoner is forced to beg for paper from the hospital staff,
+    then the hospital staff will give the prisoner only about 5 sheets of paper every time,
+    even if the prisoner needs 20 sheets of paper every day (for excessive journaling)
+- publish their journals on the internet so the whole world can read what is happening inside psychiatry
+  - if a prisoner has a mobile phone,
+    so the prisoner can photograph (and OCR) and publish his journal to the internet,
+    then the "doctors" will exploit the first best "reason"
+    to confiscate the prisoner's mobile phone,
+    "for his safety",
+    "for his health",
+    "because he is doing illegal things with his phone",
+    bla bla bla...
+    the actual reason is that the "doctors" really hate it
+    when prisoners publish their truth (their side of the story)
+    because in that version of the truth,
+    the "doctors" are the bad guys...
+    and since these "doctors" are leftists,
+    instead of fixing the root causes of their bad reputation,
+    they censor all negative feedback,
+    so they appear as "the good guys"...
+
+the best weapon of political prisoners in psychiatry is the truth,
+because the whole system of psychiatry is based on lies.
+
+every political prisoner should demand read access to his file
+(where the "doctors" write down all their lies about the prisoner)
+so the prisoner can comment on every entry in his file, to add his version of events,
+because too often, the "doctors" tell a very different story = lies,
+to "justify" their illegal actions (attacks) against the prisoner.
+
+related:
+
+- project veritas, james o'keefe
+- gustl mollath, friedrich weinberger
+  - http://www.gustl-for-help.de/analysen.html#weinberger
+- https://de.wikipedia.org/wiki/Antipsychiatrie
+  - https://patverfue.de/
+    - https://die-bpe.de/ - Bundesarbeitsgemeinschaft Psychiatrie-Erfahrener e.V. (BPE), Vorbergstr. 9A, 10823 Berlin
+    - https://www.rene-talbot.de/mehr-im-internet/
+  - https://de.wikipedia.org/wiki/Irren-Offensive
+  - https://de.wikipedia.org/wiki/Politischer_Missbrauch_der_Psychiatrie
+  - https://de.wikipedia.org/wiki/Politischer_Gefangener
+  - https://de.wikipedia.org/wiki/Politische_Verfolgung
+  - https://de.wikipedia.org/wiki/Intoleranz
+  - https://de.wikipedia.org/wiki/Dogma
+  - https://de.wikipedia.org/wiki/Normopathie
+  - "Die Normalen sind das Problem."
+  - "Politische Gefangene in der Psychiatrie sind zu gesund für diese kranke Welt."
+  - """Man ist selber krank, wenn man "gut angepasst" ist an eine kranke Welt."""
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
