@@ -1384,6 +1384,13 @@ with page numbers and running headers/footers
 
 
 
+### sync all my github forks
+
+create a python script to sync all my github forks,
+except there are "ahead commits" in the main branch
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
