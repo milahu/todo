@@ -1450,6 +1450,71 @@ related:
 
 
 
+### chromium fork with manifest version 2 (MV2) extension support
+
+https://ublockorigin.com/chrome/
+
+<blockquote>
+
+Why uBlock Origin stopped working in Chrome
+
+Full uBlock Origin uses Manifest V2, the extension platform Chrome retired. This is a browser compatibility change; reinstalling the same extension cannot fix it.
+
+Use full uBlock Origin
+
+Choose uBlock Origin on Firefox if you rely on its advanced controls or want its broader filtering capabilities. The project supports Firefox on desktop and Android.
+
+</blockquote>
+
+- https://github.com/deannominator/Restore-Manifest-v2-in-Chromium-based-browsers
+- [Is there any way to still use Manifest v2 extensions in Google Chrome 139+?](https://superuser.com/questions/1917854/is-there-any-way-to-still-use-manifest-v2-extensions-in-google-chrome-139)
+
+https://github.com/deannominator/Restore-Manifest-v2-in-Chromium-based-browsers/issues/new
+
+<blockquote>
+
+limitation: only works with older versions of chromium
+
+the readme says
+
+<blockquote>
+
+3. In the search bar, type: `unexpire`
+
+   * Locate: **Temporarily unexpire M138 flags**
+   * Locate: **Temporarily unexpire M139 flags**
+   * Set both to **Enabled**.
+   * Click the **Relaunch** button in the bottom right corner.
+
+</blockquote>
+
+but these options no longer exist in ungoogled-chromium 147.0.7727.116
+
+when i search for "unexpire" then the only options i see are
+
+- Temporarily unexpire M145 flags.
+- Temporarily unexpire M146 flags.
+
+so apparently, this quickfix has the limitation that it only works with older versions of chromium
+
+</blockquote>
+
+https://www.reddit.com/r/browsers/comments/1d5sajk/deleted_by_user/
+
+<blockquote>
+
+since chromium is open source, it is our collective failure to create a chromium fork with MV2 extension support.
+
+"you decide your own level of involvement."
+
+"what have you done today, to earn your place in this crowded world? nothing?"
+
+see also: [The future of content filtering (declarativeNetRequest, Manifest v3, and beyond) ungoogled-chromium#662](https://github.com/ungoogled-software/ungoogled-chromium/issues/662)
+
+</blockquote>
+
+
+
 ## similar projects
 
 - https://github.com/open-source-ideas/ideas
