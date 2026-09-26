@@ -1372,6 +1372,35 @@ die folien selber haben zu wenig grip für die gummirollen,
 aber papier mit folienstreifen geht schon...
 die klebefolien müssten ja nur (mehr oder weniger exakte) RAL farbenwerte haben...
 
+---
+
+eine Farbkalibrierung ist bei allen mir bekannten Dokumentenscannern normalerweise nicht vorgesehen.
+Hier geht es in erster Linie um das schnelle Erfassen von vielen Dokumenten.
+IT8-Targets werden hauptsächlich für Flachbettscanner oder Negativ-/Filmscanner verwendet,
+bei denen eine farbverbindliche Digitalisierung das Ziel ist.
+Das ist bei Dokumentenscannern eher nebensächlich.
+
+Das Aufkleben farbiger Folien oder RAL-Farbmuster auf Papier wäre meiner Meinung nach keine sinnvolle Alternative.
+Weder RAL-Farben noch Baumarkt-Klebefolien besitzen die spektrale Genauigkeit und die Referenzwerte,
+die für eine echte Farbkalibrierung erforderlich sind.
+
+---
+
+hmm. der andere "plan B" der mir einfällt ist die gleiche methode die ich schon bei meinem flachbettscanner nutze:
+
+ein möglichst buntes buchcover scannen und mit einem high-quality produktbild vergleichen...
+dafür nutze ich das (chatGPT-generierte) python-skript 012-fix-colors.py
+https://github.com/milahu/hocr-files-template-repo/blob/main/012-fix-colors.py
+
+... oder ein buntes testbild als foto drucken lassen, und das testfoto scannen und vergleichen
+
+ein anderes interessantes (chatGPT-generiertes) python-skript in meiner book scanning pipeline ist
+065-remove-page-borders.py, das ist relativ komplex, und produziert bessere ergebnisse als scantailor-universal...
+die anderen skripts sind eher triviale helper scripts...
+
+wollte ich nur erwähnen, weil ich kenne sonst kein vergleichbares projekt (open-source book scanning pipeline).
+fand ich überraschend, wie "underexplored" dieser "problem space" ist, zumindest bei open-source software
+
 
 
 ### render EPUB documents to PDF books
